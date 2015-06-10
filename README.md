@@ -53,6 +53,7 @@
 ![赫兹列表](/Screenshot/Screenshot_3.png)
 
 
+
 播放音乐
 ![播放音乐](/Screenshot/Screenshot_4.png)
 
@@ -61,8 +62,10 @@
 ![加红心](/Screenshot/Screenshot_5.png)
 
 
+
 音量控制
 ![音量控制](/Screenshot/Screenshot_6.png)
+
 
 
 暂停播放
