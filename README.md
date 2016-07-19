@@ -31,7 +31,6 @@
 >* Alt+Shift+H  显示行赫兹列表
 >* Alt+Shift+P  播放/暂停
 >* Alt+Shift+D  打开登录界面
->* Alt+Shift+D  打开登录界面
 >* Alt+Shift+X  下载当前歌曲
 >* Ctrl+Alt+Up  增大音量
 >* Ctrl+Alt+Down  降低音量
